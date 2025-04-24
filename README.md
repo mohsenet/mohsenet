@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile!
+
+## Skills
+<p align="center">
+  <a href="[https://skillicons.dev](https://github.com/mohsenet)">
+    <img src="https://skillicons.dev/icons?i=ai,py,django,fastapi,flask,redis,git,github,latex,linux,mysql,nginx,vim" />
+  </a>
+</p>
 <!--
 **mohsenet/mohsenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
