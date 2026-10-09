@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## Skills
 <p align="center">
   <a href="[https://skillicons.dev](https://github.com/mohsenet)">
-    <img src="https://skillicons.dev/icons?i=ai,py,django,fastapi,flask,redis,git,github,latex,linux,mysql,nginx,vim" />
+    <img src="https://skillicons.dev/icons?i=ai,py,django,fastapi,flask,redis,git,github,latex,linux,mysql,nginx,vim,qdrant" />
   </a>
 </p>
 <!--
